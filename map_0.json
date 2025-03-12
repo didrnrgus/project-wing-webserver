@@ -1,0 +1,36 @@
+{
+    "index": 0,
+    "name": "Easy",
+    "lineNodeList": [
+        {
+            "topYPos": 720.0,
+            "bottomYPos": 0.0,
+            "itemType": -1,
+            "obstacleType": -1
+        },
+        {
+            "topYPos": 700.0,
+            "bottomYPos": 40.0,
+            "itemType": -1,
+            "obstacleType": -1
+        },
+        {
+            "topYPos": 690.0,
+            "bottomYPos": 60.0,
+            "itemType": -1,
+            "obstacleType": -1
+        },
+        {
+            "topYPos": 700.0,
+            "bottomYPos": 70.0,
+            "itemType": -1,
+            "obstacleType": -1
+        },
+        {
+            "topYPos": 630.0,
+            "bottomYPos": 100.0,
+            "itemType": -1,
+            "obstacleType": -1
+        }
+    ]
+}
