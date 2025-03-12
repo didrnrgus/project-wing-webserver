@@ -1,7 +1,7 @@
 {
-    "index": 0,
-    "name": "Easy",
-    "difficulty_rate": 0.1,
+    "index": 1,
+    "name": "Normal",
+    "difficulty_rate": 0.25,
     "line_node_list": [
         {
             "top_y_pos": 720.0,
