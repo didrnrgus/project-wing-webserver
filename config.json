@@ -10,7 +10,8 @@
     "character_list": [
         {
             "index": 0,
-            "name": "White",
+            "name": "Yang",
+            "color_name": "White",
             "speed": 110.0,
             "hp": 120.0,
             "dex": 130.0,
@@ -20,7 +21,8 @@
         },
         {
             "index": 1,
-            "name": "Pink",
+            "name": "kKuk",
+            "color_name": "Pink",
             "speed": 110.0,
             "hp": 120.0,
             "dex": 130.0,
@@ -30,7 +32,8 @@
         },
         {
             "index": 2,
-            "name": "Green",
+            "name": "hYun",
+            "color_name": "Green",
             "speed": 110.0,
             "hp": 120.0,
             "dex": 130.0,
@@ -40,7 +43,8 @@
         },
         {
             "index": 3,
-            "name": "Cyan",
+            "name": "Jethro",
+            "color_name": "Cyan",
             "speed": 110.0,
             "hp": 120.0,
             "dex": 130.0,
@@ -50,7 +54,8 @@
         },
         {
             "index": 4,
-            "name": "Yellow",
+            "name": "Diane",
+            "color_name": "Yellow",
             "speed": 110.0,
             "hp": 120.0,
             "dex": 130.0,
