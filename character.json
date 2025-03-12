@@ -1,0 +1,59 @@
+{
+    "character_list": [
+        {
+            "index": 0,
+            "name": "Yang",
+            "color_name": "White",
+            "speed": 110.0,
+            "hp": 120.0,
+            "dex": 130.0,
+            "image_path": "PlayerIdle",
+            "size_x": 120.0,
+            "size_y": 110.0
+        },
+        {
+            "index": 1,
+            "name": "kKuk",
+            "color_name": "Pink",
+            "speed": 110.0,
+            "hp": 120.0,
+            "dex": 130.0,
+            "image_path": "PlayerIdle",
+            "size_x": 120.0,
+            "size_y": 110.0
+        },
+        {
+            "index": 2,
+            "name": "hYun",
+            "color_name": "Green",
+            "speed": 110.0,
+            "hp": 120.0,
+            "dex": 130.0,
+            "image_path": "PlayerIdle",
+            "size_x": 120.0,
+            "size_y": 110.0
+        },
+        {
+            "index": 3,
+            "name": "Jethro",
+            "color_name": "Cyan",
+            "speed": 110.0,
+            "hp": 120.0,
+            "dex": 130.0,
+            "image_path": "PlayerIdle",
+            "size_x": 120.0,
+            "size_y": 110.0
+        },
+        {
+            "index": 4,
+            "name": "Diane",
+            "color_name": "Yellow",
+            "speed": 110.0,
+            "hp": 120.0,
+            "dex": 130.0,
+            "image_path": "PlayerIdle",
+            "size_x": 120.0,
+            "size_y": 110.0
+        }
+    ]
+}
