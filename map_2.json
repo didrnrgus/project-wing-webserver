@@ -1,7 +1,6 @@
 {
     "index": 2,
     "name": "Hard",
-    "difficulty_icon_path": "Texture/Icon/emoji-sad.png",
     "difficulty_color_name": "Red",
     "difficulty_rate": 0.5,
     "line_node_list": [

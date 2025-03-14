@@ -1,7 +1,6 @@
 {
     "index": 0,
     "name": "Easy",
-    "difficulty_icon_path": "Texture/Icon/emoji-happy.png",
     "difficulty_color_name": "Cyan",
     "difficulty_rate": 0.1,
     "line_node_list": [

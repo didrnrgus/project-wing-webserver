@@ -1,7 +1,6 @@
 {
     "index": 1,
     "name": "Normal",
-    "difficulty_icon_path": "Texture/Icon/emoji-normal.png",
     "difficulty_color_name": "Yellow",
     "difficulty_rate": 0.25,
     "line_node_list": [
