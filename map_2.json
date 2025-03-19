@@ -2,7 +2,8 @@
     "index": 2,
     "name": "Hard",
     "difficulty_color_name": "Red",
-    "difficulty_rate": 30,
+    "difficulty_rate": 30.0,
+    "collision_damage": 20.0,
     "line_node_list": [
         {
             "top_y_pos": 720.0,

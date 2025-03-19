@@ -2,7 +2,8 @@
     "index": 0,
     "name": "Easy",
     "difficulty_color_name": "Cyan",
-    "difficulty_rate": 10,
+    "difficulty_rate": 10.0,
+    "collision_damage": 20.0,
     "line_node_list": [
         {
             "top_y_pos": 720.0,

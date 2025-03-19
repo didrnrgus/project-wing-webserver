@@ -2,7 +2,8 @@
     "index": 1,
     "name": "Normal",
     "difficulty_color_name": "Yellow",
-    "difficulty_rate": 20,
+    "difficulty_rate": 20.0,
+    "collision_damage": 20.0,
     "line_node_list": [
         {
             "top_y_pos": 720.0,
