@@ -1,7 +1,6 @@
 {
     "db_id": "19e45759635e8028adb0d83e3cf969ff",
-    "db_url": "https://api.notion.com/v1/databases/19e45759635e8028adb0d83e3cf969ff",
-    "api_key": "Bearer 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",
+    "api_key": "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",
     "map_file_list": [
         "map_0.json",
         "map_1.json",
