@@ -2,7 +2,7 @@
     "character_list": [
         {
             "index": 0,
-            "name": "Yang",
+            "name": "Jethro",
             "color_name": "White",
             "speed": 700.0,
             "hp": 100.0,
@@ -15,8 +15,8 @@
         },
         {
             "index": 1,
-            "name": "kKuk",
-            "color_name": "Pink",
+            "name": "Diane",
+            "color_name": "Yellow",
             "speed": 730.0,
             "hp": 95.0,
             "dex": 99.0,
@@ -28,7 +28,7 @@
         },
         {
             "index": 2,
-            "name": "hYun",
+            "name": "Leaf",
             "color_name": "Green",
             "speed": 760.0,
             "hp": 90.0,
@@ -41,7 +41,7 @@
         },
         {
             "index": 3,
-            "name": "Jethro",
+            "name": "Summer",
             "color_name": "Cyan",
             "speed": 790.0,
             "hp": 85.0,
@@ -54,8 +54,8 @@
         },
         {
             "index": 4,
-            "name": "Diane",
-            "color_name": "Yellow",
+            "name": "Lauren",
+            "color_name": "Pink",
             "speed": 800.0,
             "hp": 80.0,
             "dex": 96.0,
