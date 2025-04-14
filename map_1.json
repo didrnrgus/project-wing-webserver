@@ -1,7 +1,7 @@
 {
     "index": 1,
     "name": "Normal",
-    "difficulty_color_name": "Yellow",
+    "color_name": "Yellow",
     "difficulty_rate": 20.0,
     "collision_damage": 20.0,
     "obstacle_interval_time": 2.0,

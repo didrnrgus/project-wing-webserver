@@ -1,7 +1,7 @@
 {
     "index": 2,
     "name": "Hard",
-    "difficulty_color_name": "Orange",
+    "color_name": "Orange",
     "difficulty_rate": 30.0,
     "collision_damage": 20.0,
     "obstacle_interval_time": 2.0,
