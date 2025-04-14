@@ -12,7 +12,7 @@
       { "color_name": "Salmon", "hex": "#FA8072FF", "r": 0.98, "g": 0.5, "b": 0.45, "a": 1.0 },
       { "color_name": "Brown", "hex": "#A52A2AFF", "r": 0.65, "g": 0.16, "b": 0.16, "a": 1.0 },
       { "color_name": "Turquoise", "hex": "#40E0D0FF", "r": 0.25, "g": 0.88, "b": 0.82, "a": 1.0 },
-      { "color_name": "Pink", "hex": "#FFC0CBFF", "r": 1.0, "g": 0.75, "b": 0.8, "a": 1.0 },
+      { "color_name": "Pink", "hex": "#FF99ABFF", "r": 1.0, "g": 0.6, "b": 0.67, "a": 1.0 },
       { "color_name": "Mint", "hex": "#98FF98FF", "r": 0.6, "g": 1.0, "b": 0.6, "a": 1.0 },
       { "color_name": "DarkRed", "hex": "#8B0000FF", "r": 0.55, "g": 0.0, "b": 0.0, "a": 1.0 },
       { "color_name": "DarkGreen", "hex": "#006400FF", "r": 0.0, "g": 0.39, "b": 0.0, "a": 1.0 },
