@@ -10,5 +10,5 @@
     "item_file": "item_list.json",
     "stat_file": "stat_type_list.json",
     "selectable_item_count": 3,
-    "rank_count_by_category": 5
+    "rank_count_by_category": 10
 }
