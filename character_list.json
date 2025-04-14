@@ -8,10 +8,10 @@
             "hp": 100.0,
             "dex": 100.0,
             "def": 10.0,
-            "stun_duration": 2.0,
+            "stun_duration": 1.0,
             "image_sequence_name": "PlayerIdle",
-            "size_x": 200.0,
-            "size_y": 135.0
+            "size_x": 178.0,
+            "size_y": 178.0
         },
         {
             "index": 1,
@@ -21,10 +21,10 @@
             "hp": 95.0,
             "dex": 99.0,
             "def": 9.0,
-            "stun_duration": 2.0,
+            "stun_duration": 3.0,
             "image_sequence_name": "PlayerIdle",
-            "size_x": 190.0,
-            "size_y": 130.0
+            "size_x": 154.0,
+            "size_y": 154.0
         },
         {
             "index": 2,
@@ -37,7 +37,7 @@
             "stun_duration": 2.0,
             "image_sequence_name": "PlayerIdle",
             "size_x": 180.0,
-            "size_y": 125.0
+            "size_y": 180.0
         },
         {
             "index": 3,
@@ -47,10 +47,10 @@
             "hp": 85.0,
             "dex": 97.0,
             "def": 7.0,
-            "stun_duration": 2.0,
+            "stun_duration": 1.8,
             "image_sequence_name": "PlayerIdle",
             "size_x": 170.0,
-            "size_y": 120.0
+            "size_y": 170.0
         },
         {
             "index": 4,
@@ -60,10 +60,10 @@
             "hp": 80.0,
             "dex": 96.0,
             "def": 5.0,
-            "stun_duration": 1.0,
+            "stun_duration": 2.0,
             "image_sequence_name": "PlayerIdle",
             "size_x": 160.0,
-            "size_y": 115.0
+            "size_y": 160.0
         }
     ]
 }
