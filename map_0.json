@@ -2,7 +2,7 @@
     "index": 0,
     "name": "Easy",
     "color_name": "Lime",
-    "difficulty_rate": 10.0,
+    "difficulty_rate": 5.0,
     "collision_damage": 20.0,
     "obstacle_interval_time": 2.0,
     "line_node_list": [

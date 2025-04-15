@@ -1,10 +1,10 @@
 {
     "index": 1,
     "name": "Normal",
-    "color_name": "Yellow",
-    "difficulty_rate": 20.0,
-    "collision_damage": 20.0,
-    "obstacle_interval_time": 2.0,
+    "color_name": "Orange",
+    "difficulty_rate": 7.0,
+    "collision_damage": 25.0,
+    "obstacle_interval_time": 1.5,
     "line_node_list": [
         {
             "top_y_pos": 720.0,

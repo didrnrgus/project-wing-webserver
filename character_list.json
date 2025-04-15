@@ -29,7 +29,7 @@
         {
             "index": 2,
             "name": "Leaf",
-            "color_name": "Green",
+            "color_name": "Turquoise",
             "speed": 760.0,
             "hp": 90.0,
             "dex": 98.0,
@@ -55,7 +55,7 @@
         {
             "index": 4,
             "name": "Lauren",
-            "color_name": "Pink",
+            "color_name": "Magenta",
             "speed": 800.0,
             "hp": 80.0,
             "dex": 96.0,
