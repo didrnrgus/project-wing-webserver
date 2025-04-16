@@ -1,7 +1,7 @@
 {
     "index": 0,
     "name": "Easy",
-    "color_name": "Lime",
+    "color_name": "SkyBlue",
     "difficulty_rate": 5.0,
     "collision_damage": 30.0,
     "obstacle_interval_time": 2.0,
